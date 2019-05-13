@@ -1,14 +1,12 @@
 # StreamUrVirtualAvatar
 
-A Unity Application for Streamers (coming soon).
-
-*This page is work in progress!*
+A Unity Application for Streamers.
 
 Features:
   - controlling a virtual Avatar
     - Tracking of Head and Arms using SteamVR (SteamVR installation requiered for any kind of tracking)
     - does not render to the VR-Headset
-    - can be run with just Trackers/Controllers (optional, without HMD, Tutorial coming soon)
+    - can be run with just Trackers/Controllers (optional, without HMD [Tutorial Article](https://vvvv.org/blog/using-htc-vive-trackers-without-headset)
     - Tobii Head Tracking (optional)
     - Tobii Eye Tracking (optional but recommended)
     - Fake Eye Movement 
