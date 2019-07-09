@@ -24,5 +24,4 @@ Features:
   - easy export from Unity and import to *SUVA* of Avatars (Assetbundles)
   - created with [VRChat](https://vrchat.com/) players in mind
 
-You can support me and the developement of *SUVA* by donating [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SJFFFCZXTGHAL&source=url).<br/>
 To see updates and *wip* features you can also follow me on [Twitter](https://twitter.com/GuriboVR).
