@@ -20,7 +20,7 @@ Features:
   - adjustable background color (Chroma keying/Transparency)
   - low CPU usage (depends mostly on the loaded avatar)
   - Supports 2-PC streaming (Gaming PC sends Eyetracking Data to Streaming PC, Avatar gets tracked on Streaming PC)
-  - Avatars can be created easily using [Unity 2017.4.15f1](https://unity3d.com/get-unity/download/archive)  
+  - Avatars can be created easily using [Unity 2018.4.20f1](https://unity3d.com/get-unity/download/archive)
   - easy export from Unity and import to *SUVA* of Avatars (Assetbundles)
   - created with [VRChat](https://vrchat.com/) players in mind
 
